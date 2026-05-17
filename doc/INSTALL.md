@@ -21,7 +21,7 @@ viz3dvideo-info
 Installing `viz3dvideo-info` program
 
 ```bash
-git clone https://github.com/trucomanx/Viz3DVideo.git
+git clone https://github.com/trucomanx-pylibs/Viz3DVideo.git
 cd Viz3DVideo
 pip install -r requirements.txt
 cd src

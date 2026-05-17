@@ -2,7 +2,7 @@
 
 Visualize a video of 3D graphs in Matplotlib
 
-[![logo](https://raw.githubusercontent.com/trucomanx/Viz3DVideo/main/screenshot.png)](https://www.youtube.com/watch?v=OSm2YUywPsQ)
+[![logo](https://raw.githubusercontent.com/trucomanx-pylibs/Viz3DVideo/main/screenshot.png)](https://www.youtube.com/watch?v=OSm2YUywPsQ)
 
 ## 1. Installing
 
@@ -24,7 +24,7 @@ viz3dvideo-info
 ```
 ## 2. More information
 
-If you want more information go to [doc](https://github.com/trucomanx/Viz3DVideo/blob/main/doc) directory.
+If you want more information go to [doc](https://github.com/trucomanx-pylibs/Viz3DVideo/blob/main/doc) directory.
 
 ## 3. Buy me a coffee
 
