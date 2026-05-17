@@ -24,7 +24,9 @@ viz3dvideo-info
 ```
 ## 2. More information
 
-If you want more information go to [doc](https://github.com/trucomanx-pylibs/Viz3DVideo/blob/main/doc) directory.
+If you want to see the package documentation, go to the [doc](https://github.com/trucomanx-pylibs/Viz3DVideo/blob/main/doc) directory.
+
+If you want to see the reference manual, go to [https://trucomanx-pylibs.github.io/Viz3DVideo/](https://trucomanx-pylibs.github.io/Viz3DVideo/).
 
 ## 3. Buy me a coffee
 
